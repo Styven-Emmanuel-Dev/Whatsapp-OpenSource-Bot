@@ -1,0 +1,17 @@
+{
+  "name": "styven-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Node.js avec pairing code, commandes, gestion de groupes et menu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Styven Emmanuel",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^9.9.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
