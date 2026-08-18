@@ -1,4 +1,4 @@
-# Styven WhatsApp Bot
+# Styven WhatsApp Bot 
 
 Bot WhatsApp open source basé sur Node.js et Baileys.
 
